@@ -2,7 +2,7 @@
 
 * [前言](README.md)
 * [ES5](es5/README.md)
-  * [第1节：衣](es5/yi.md)
+  * [enum](es5/yi.md)
   * [第2节：食](es5/shi.md)
   * [第3节：住](es5/zhu.md)
   * [第4节：行](es5/hang.md)
